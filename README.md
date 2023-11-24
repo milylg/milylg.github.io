@@ -6,7 +6,7 @@
 
 
 
-## Contant me
+## Contact me
 
 - **Email**：lgen.nsu@qq.com
 
