@@ -1,18 +1,21 @@
-## Resume
+> #### Resume
+>
 
-- Milylg
-- China, Lu'an
-- NSU / Software Engineering
-
-
-
-## Contact me
-
-- **Email**：lgen.nsu@qq.com
+- 🧔 Milylg
+- 🌏 China, Lu'an
+- 🏫 NSU / Software Engineering
 
 
 
-## Project List (Toy)
+> #### Contact me
+>
+
+- 📧 **Email**：lgen.nsu@qq.com
+
+
+
+> #### Toy Projects
+>
 
 - **Crazy** (练习重构，Git工具，OOD 案例游戏项目)
 
@@ -29,29 +32,28 @@
 
 
 
-## Project Preview
+> #### Preview
+>
 
-<center><img src="RESUME/image-20230901111249539.png" ></center>
+<center><img src="RESUME/image-20230901111249539.png"  style="zoom:60%;"></center>
 
 <center>Crazy 游戏项目</center><br><br>
 
-<center><img src="RESUME/crazy.gif" ></center>
+<center><img src="RESUME/crazy.gif" style="zoom:63%;" ></center>
 
 <center>Crazy Show Case</center><br><br>
 
-
-
-![image-20230901152733560](RESUME/image-20230901152733560.png)
+<center><img src="RESUME/image-20230901152733560.png" style="zoom:50%;" ></center>
 
 <center>井字棋游戏项目（AI, 网络连线对战）</center><br><br>
 
-![](RESUME/Ai_TicTaeToc.gif)
+<center><img src="RESUME/Ai_TicTaeToc.gif" style="zoom:50%;" ></center>
 
 <center>井字棋 AI Show Case</center><br><br>
 
 
 
-![](RESUME/TicTaeToc.gif)
+<center><img src="RESUME/TicTaeToc.gif" style="zoom:50%;" ></center>
 
 <center>井字棋本地网络端口连接 Show Case</center><br><br>
 
@@ -61,7 +63,7 @@
 
 
 
-<center>英语听力播放器项目</center><br><br>
+<center>英语听力播放器</center><br><br>
 
 
 
@@ -69,7 +71,7 @@
 
 <div><center><img src="RESUME/Screenshot_20230318-194529[1].png"  width="40%" ><img src="RESUME/Screenshot_19700103-040837[1].png" width="40%" ></center></div>
 
-<center>基于Span的富文本编辑器项目（DailyNotes项目组件库）</center><br><br>
+<center>基于Span的富文本编辑器（DailyNotes项目组件库）</center><br><br>
 
 
 
