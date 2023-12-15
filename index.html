@@ -1,39 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Resume</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="description" content="当前网站是Milylg的个人主页,您可以在这里发现有趣的事物,了解作者的想法和经历.">
-  <meta name="keywords" content="Github, Milylg, 博客, Resume, Enginner, 软件工程师, DailyNotes">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" >
-	<link rel="icon" href="favicon.ico">
-</head>
-<body>
-  <div id="app">🏃‍🏃‍🏃‍💨加载中...</div>
-  <script>
-    window.$docsify = {
-      name: 'Milylg',
-			nameLink: '/bio',
-			coverpage: true,
-			themeColor: '#3F51B5',
-			subMaxLevel: 1,
-			loadNavbar: true,
-			notFoundPage: 'notfound.md',
-			count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese'
-      }
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-	<!-- 字数统计 -->
-	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-	<!-- 访问量统计 -->
-	<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-</body>
+	<head>
+		<meta charset="UTF-8">
+		<title>Resume</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="description" content="当前网站是Milylg的个人主页,您可以在这里发现有趣的事物,了解作者的想法和经历.">
+		<meta name="keywords" content="Github, Milylg, 博客, Resume, Enginner, 软件工程师, DailyNotes">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+		<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+		<link rel="icon" href="favicon.ico">
+	</head>
+	<body>
+		<div id="app"><div class="loading" style="position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;"></div></div>
+		<style>
+			.loading {
+				position: relative;
+				width: 48px;
+				height: 48px;
+				animation: satellite 3s infinite linear;
+				border: 1px solid #cfedb8;
+				border-radius: 100%;
+			}
+
+			.loading:before,
+			.loading:after {
+				position: absolute;
+				left: 1px;
+				top: 1px;
+				width: 12px;
+				height: 12px;
+				content: "";
+				border-radius: 100%;
+				background-color: #bfcbed;
+				box-shadow: 0 0 10px #bfcbed;
+			}
+
+			.loading:after {
+				right: 0;
+				width: 20px;
+				height: 20px;
+				margin: 13px;
+			}
+
+			@keyframes satellite {
+				from {
+					transform: rotate(0) translateZ(0);
+				}
+
+				to {
+					transform: rotate(360deg) translateZ(0);
+				}
+			}
+		</style>
+		<script>
+			window.$docsify = {
+				name: 'Milylg',
+				nameLink: '/bio',
+				coverpage: true,
+				themeColor: '#3F51B5',
+				subMaxLevel: 1,
+				loadNavbar: true,
+				notFoundPage: 'notfound.md',
+				count: {
+					countable: true,
+					fontsize: '0.9em',
+					color: 'rgb(90,90,90)',
+					language: 'chinese'
+				}
+			}
+		</script>
+		<!-- Docsify v4 -->
+		<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+		<!-- 字数统计 -->
+		<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+		<!-- 访问量统计 -->
+		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+	</body>
 </html>
