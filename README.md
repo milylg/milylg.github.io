@@ -1,7 +1,7 @@
 > #### Resume
 >
 
-- 🧔 Milylg
+- 🧔 Gen.Lia
 - 🌏 China, Lu'an
 - 🏫 NSU / Software Engineering
 

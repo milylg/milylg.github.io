@@ -4,7 +4,7 @@
 
 回想一下你的童年中，有没有一款你喜爱的游戏呢？即使你不是一个游戏迷，也可能有一些回忆建立在某些曾经痴迷的事物上。值得一提的是在我的中学时期，有一款游戏让我记忆犹新------疯狂鼹鼠，它是一个运行在摩托罗拉E2的本机游戏。
 
-2019年实习的时候，我曾想开发这个游戏当作毕业设计的。某天晚上我躺在床上突然想起初中玩的这款游戏，想起每天早上醒来都打开老式摩托罗拉手机（大概2010年左右）开始玩这个游戏。现在站在产品的角度上看，很佩服设计这款游戏的工程师或者是产品经理！我也曾在网上多次尝试获取这款游戏的jar包，想看看里面的源码，能否有一些借鉴，但是一无所获。贴吧里也有人同样在寻找这款游戏，可以看到这款游戏确实带给他们一个优秀的用户体验感。
+2019年实习的时候，我曾想开发这个游戏当作毕业设计的。某天晚上我躺在床上突然想起初中玩的这款游戏，想起每天早上醒来都打开老式摩托罗拉手机开始玩这个游戏（大概2010年左右）。现在站在产品的角度上看，很佩服设计这款游戏的工程师或者是游戏策划！我也曾在网上多次尝试获取这款游戏的jar包，想看看里面的源码，能否有一些借鉴，但是一无所获。贴吧里也有人同样在寻找这款游戏，可以看到这款游戏确实带给他们一个优秀的用户体验感。
 
 <div><center><img src="Story/tieba_crazy.jpg" style="zoom:50%;"><img src="Story/crazy_plus.jpg" style="zoom:60%;"></center></div>
 
@@ -18,7 +18,7 @@
 
 ![image-20230904102503254](Story/image-20230904102503254.png)
 
-<center>Asteroids! - a Java asteroids implementation in OpenGL for Dave Straayer's CS142 class.</center><br><br>
+<center><p style="width:50%">Asteroids! - a Java asteroids implementation in OpenGL for Dave Straayer's CS142 class.</p></center><br><br>
 
 <center>
 <video width="80%" height="80%" controls align-items="center;" justify-content="center;">
@@ -27,9 +27,14 @@
 </video></center>
 
 
-<center>CS142 Course Project: Asteroids Show Case</center>
+<center><p style="width:50%">CS142 Course Project: Asteroids Show Case</p></center><br><br>
 
 
+
+<div><center><img src="Story/IMG_20240216_140937.jpg" style="zoom:15%;"></center>
+<center><p style="width:50%">那是一个阳光明媚的下午，在锡北镇的农村出租屋里，找到刚毕业时下载的一个有趣的学习项目，阅读它，改造它！</p></center></div><br><br>
+
+<div><center><img src="Story/IMG_20240216_141300.jpg" style="zoom:15%;"></center><center><p style="width:50%">构建自己的想法，一步一步地完善它！完成后的那种成就感可以缓解当时的焦虑和不自信。</p></center></div><br><br>
 
 
 
@@ -42,7 +47,7 @@
 
 <div><center><img src="Story/IMG_20230808_213133.jpg" style="zoom:12%;"></center></div>
 
-<center>Audio 界面设计草图 </center>
+<center><p style="width:50%">Audio 界面设计草图 </p></center>
 
 
 
@@ -52,13 +57,13 @@
 
 <div><center><img src="Story/IMG_20230808_204436.jpg" style="zoom:12%;"></center></div>
 
-<center>添加链接特性 设计草图</center><br><br>
+<center><p style="width:50%">添加链接特性 设计草图</p></center><br><br>
 
 
 
 <div><center><img src="Story/Screenshot_20221227-171823.png" style="zoom:60%;"><img src="Story/Screenshot_20221227-223253.png" style="zoom:60%;"></center></div>
 
-<center>新特性尝试：文本中插入图片</center><br><br>
+<center><p style="width:50%">新特性尝试：文本中插入图片</p></center><br><br>
 
 > #### DailyNotes 备忘录项目
 
@@ -66,13 +71,19 @@
 
 <div><center><img src="Story/Screenshot_20220519-225336.png" style="zoom:50%;"><img src="Story/Screenshot_20221026-152055.png" style="zoom:50%;"><img src="Story/Screenshot_20221108-164900.png" style="zoom:50%;"></center></div><br><br>
 
-<center>被丢弃的应用程序 <br>频繁迭代的DailyNotes项目让我感到疲惫不堪，这里仅展示了冰山一角</center><br><br>
+<center><p style="width:50%">被丢弃的应用程序，频繁迭代的DailyNotes项目让我感到疲惫，这里仅仅展示了冰山一角</p></center><br><br>
+
+2021年9月，尝试使用Android开发备忘录应用程序，然而，我并没有完整的Android开发实践经历，一开始我在`MyDiary`项目上修改，随着实践的增多，不断对以前的想法进行否定，直至放弃在开源项目的基础上修改。接着断断续续实现了好几种不同的界面风格，随着审美风格的提升，它们并没有让我感到满意！多次想放弃这个项目，每次想到这个应用会给自己带来一些美好的体验，项目暂停一段时间后又开始有新的想法，这个项目便是以这样的方式进行迭代的。
+
+我期望界面设计的结果是让用户自己有记录的冲动，并形成正反馈循环。经过长时间多次地修改，我感到有点疲惫和审美疲劳，此时我觉得功能并不是需要现在全部都实现，最好的计划是设计出总体的界面框架，完善当前每个功能的界面，使它们变得实用和精巧，优化体验感，再在此基础上慢慢添加自己想要的功能特性。
+
+技术上，这个项目使用了谷歌推荐的Jetpack工具包和MVVM框架，这些都是我之前没有接触过的工具，它们并不难，让我感到困难的是用户体验设计！做一个能让自己接受的产品感到很困难，这也是进步的机会。
+
+<div><br><center><img src="Story/Screenshot_20231004_125617.jpg" style="zoom:50%;"><img src="Story/Screenshot_20231004_203213.jpg" style="zoom:50%;"></center></div><center><p><b>DayNight Mode</b></p></center>
+
+也许你看到这样的应用程序会认为它如此简单，根本用不了多长时间，然而我想要说的是，在刚开始开发它的时候，我认为可能用不了一个月就能够完成它。只有在实践的过程中，你会发现你需要考虑的远远比你想象的要多得多！如何管理需求，如何去实现使工程代码整洁，整个工具框架以哪种形态搭建以及产品以哪种风格形式去展现出来...... 这些都需要按照一定的优先级去一一解决它，它并不是一帆风顺的，尤其是像我这样的初级开发者来说，走了很多弯路，做了一些无用功，但它是值得的。
 
 
 
-2021年9月，尝试使用Android开发备忘录应用程序，然而，我并没有完整的Android开发实践经历，一开始我在`MyDiary`项目上修改，随着实践的增多，不断对以前的想法进行否定，直至放弃在开源项目的基础上修改。接着断断续续实现了好几种不同的界面风格，随着审美风格的提升，它们并没有让我感到满意！多次想放弃这个项目，每次想到这个应用会给自己带来一些美好的体验，项目暂停一段时间后又开始有新的想法，这个项目就是以这样的方式进行迭代。
-
-我期望界面设计的结果是让用户自己有记录的冲动，形成正反馈循环。经过长时间多次地修改，我感到有点疲惫和审美疲劳，明白功能并不是需要现在全部实现，最好的计划是设计出总体的界面框架，并让每一个功能变得实用和精巧，优化体验感觉，再完善界面和功能特性，在此基础上慢慢添加自己想要的功能特性。还要提防着自己的审美风格突变，常常需要改变界面，这可把我害苦了------界面设计花费了整个项目大部分精力。
-
-技术上，这个项目使用了谷歌推荐的Jetpack工具包和MVVM框架，这些都是我之前没有接触过的工具，它们并不难，让我感到困难的是用户体验设计！纵观整个过程，理论和实践相互促进学习能力不断提升，但是技术能力好像并没有多大改善，也许没有相应的目标之后，心态也改变了吧！
+<div><center><img src="Story/image-20231231105839552.png" style="zoom:90%;"></center><center><p style="width:60%">2023年12月29日，好长时间没有接触这个项目了，花费了一个上午的时间基本完成了昨晚在使用DailyNotes时发现的问题。在实现标题输入框这么简单的需求，还出现一些小状况，于是将程序的交互大致流程又了解了一下，才将它实现完成。</p></center></div>
 
