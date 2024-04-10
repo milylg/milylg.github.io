@@ -18,7 +18,7 @@
 
 ![image-20230904102503254](Story/image-20230904102503254.png)
 
-<center><p style="width:50%">Asteroids! - a Java asteroids implementation in OpenGL for Dave Straayer's CS142 class.</p></center><br><br>
+<center><p>Asteroids! - a Java asteroids implementation in OpenGL for Dave Straayer's CS142 class.</p></center><br><br>
 
 <center>
 <video width="80%" height="80%" controls align-items="center;" justify-content="center;">
@@ -27,14 +27,15 @@
 </video></center>
 
 
-<center><p style="width:50%">CS142 Course Project: Asteroids Show Case</p></center><br><br>
+<center><p>CS142 Course Project: Asteroids Show Case</p></center><br><br>
 
 
 
 <div><center><img src="Story/IMG_20240216_140937.jpg" style="zoom:15%;"></center>
-<center><p style="width:50%">那是一个阳光明媚的下午，在锡北镇的农村出租屋里，找到刚毕业时下载的一个有趣的学习项目，阅读它，改造它！</p></center></div><br><br>
+<center><p>一个阳光明媚的下午，在锡北镇的农村出租屋里，<br>找到刚毕业时下载的一个有趣的学习项目，阅读并改造它！</p></center></div><br><br>
 
-<div><center><img src="Story/IMG_20240216_141300.jpg" style="zoom:15%;"></center><center><p style="width:50%">构建自己的想法，一步一步地完善它！完成后的那种成就感可以缓解当时的焦虑和不自信。</p></center></div><br><br>
+
+<div><center><img src="Story/IMG_20240216_141300.jpg" style="zoom:15%;"></center><center><p>构建自己的想法，一步一步地完善它！<br>目标达成的那种成就感可以缓解当时的焦虑感和不自信。</p></center></div><br><br>
 
 
 
@@ -47,7 +48,7 @@
 
 <div><center><img src="Story/IMG_20230808_213133.jpg" style="zoom:12%;"></center></div>
 
-<center><p style="width:50%">Audio 界面设计草图 </p></center>
+<center><p>Audio 界面设计草图 </p></center>
 
 
 
@@ -57,13 +58,13 @@
 
 <div><center><img src="Story/IMG_20230808_204436.jpg" style="zoom:12%;"></center></div>
 
-<center><p style="width:50%">添加链接特性 设计草图</p></center><br><br>
+<center><p>添加链接特性 设计草图</p></center><br><br>
 
 
 
 <div><center><img src="Story/Screenshot_20221227-171823.png" style="zoom:60%;"><img src="Story/Screenshot_20221227-223253.png" style="zoom:60%;"></center></div>
 
-<center><p style="width:50%">新特性尝试：文本中插入图片</p></center><br><br>
+<center><p>新特性尝试：文本中插入图片</p></center><br><br>
 
 > #### DailyNotes 备忘录项目
 
@@ -71,19 +72,26 @@
 
 <div><center><img src="Story/Screenshot_20220519-225336.png" style="zoom:50%;"><img src="Story/Screenshot_20221026-152055.png" style="zoom:50%;"><img src="Story/Screenshot_20221108-164900.png" style="zoom:50%;"></center></div><br><br>
 
-<center><p style="width:50%">被丢弃的应用程序，频繁迭代的DailyNotes项目让我感到疲惫，这里仅仅展示了冰山一角</p></center><br><br>
+<center><p>被丢弃的应用程序，频繁迭代的DailyNotes项目让我感到疲惫，这里仅仅展示了冰山一角</p></center><br><br>
 
 2021年9月，尝试使用Android开发备忘录应用程序，然而，我并没有完整的Android开发实践经历，一开始我在`MyDiary`项目上修改，随着实践的增多，不断对以前的想法进行否定，直至放弃在开源项目的基础上修改。接着断断续续实现了好几种不同的界面风格，随着审美风格的提升，它们并没有让我感到满意！多次想放弃这个项目，每次想到这个应用会给自己带来一些美好的体验，项目暂停一段时间后又开始有新的想法，这个项目便是以这样的方式进行迭代的。
 
-我期望界面设计的结果是让用户自己有记录的冲动，并形成正反馈循环。经过长时间多次地修改，我感到有点疲惫和审美疲劳，此时我觉得功能并不是需要现在全部都实现，最好的计划是设计出总体的界面框架，完善当前每个功能的界面，使它们变得实用和精巧，优化体验感，再在此基础上慢慢添加自己想要的功能特性。
+2022年9月，我对当前的项目状态感到不满意，它看起来像是一个没有经过任何思考准备，随心所欲产生出来的家伙，不论是界面设计还是工程实现层面上的，给我的感觉是它太乱了，没有一点点秩序感。我想是时候改变一下当前的状态了，我花了两个月的时间，从零到一将DailyNotes重新经过整个设计和实现迭代，一切Action围绕这上一层活动展开，层层分解整合。
 
-技术上，这个项目使用了谷歌推荐的Jetpack工具包和MVVM框架，这些都是我之前没有接触过的工具，它们并不难，让我感到困难的是用户体验设计！做一个能让自己接受的产品感到很困难，这也是进步的机会。
+我对界面设计的预期结果是它能够让自己产生文字记录的冲动，并且形成正反馈闭环。经过长时间多次地修改，我感到有点疲惫和审美疲劳，此时我觉得功能并不是需要现在全部都实现，最好的计划是设计出总体的界面框架，完善当前每个功能的界面，使它们变得实用和精巧，优化体验感，再在此基础上慢慢添加自己想要的功能特性。
+
+`DailyNotes` App使用了谷歌推荐的Jetpack工具包和MVVM架构，是之前我没有接触过的工具，它们并不难，让我感到困难的是用户体验设计！做一个能让自己接受的产品感到很困难，也是我获得进步的机会，即使我不从事与之相关的行业，也能在实践过程中会让自己在某些通用的技能上得到长进。
+
+![image-20240403133617371](Story/image-20240403133617371.png)
 
 <div><br><center><img src="Story/Screenshot_20231004_125617.jpg" style="zoom:50%;"><img src="Story/Screenshot_20231004_203213.jpg" style="zoom:50%;"></center></div><center><p><b>DayNight Mode</b></p></center>
 
-也许你看到这样的应用程序会认为它如此简单，根本用不了多长时间，然而我想要说的是，在刚开始开发它的时候，我认为可能用不了一个月就能够完成它。只有在实践的过程中，你会发现你需要考虑的远远比你想象的要多得多！如何管理需求，如何去实现使工程代码整洁，整个工具框架以哪种形态搭建以及产品以哪种风格形式去展现出来...... 这些都需要按照一定的优先级去一一解决它，它并不是一帆风顺的，尤其是像我这样的初级开发者来说，走了很多弯路，做了一些无用功，但它是值得的。
+也许你看到这样的应用程序会认为它如此简单，根本用不了多长时间，然而我想要说，在刚开始开发它的时候，我天真地认为可能用不了一个月就能够完成它。事实上我错了，只有在实践的过程中，我发现我所需要考虑的远远比自己想象的要多得多！如何管理需求，工程实现代码整洁，整个工具框架以哪种形态搭建以及产品以哪种风格形式去展现出来...... 这些问题都需要按照一定的优先级去一一解决它，它并不是一帆风顺的，尤其是对像我这样的初级开发者来说，走了很多弯路，做了一些无用功，但它是值得的。
 
 
 
-<div><center><img src="Story/image-20231231105839552.png" style="zoom:90%;"></center><center><p style="width:60%">2023年12月29日，好长时间没有接触这个项目了，花费了一个上午的时间基本完成了昨晚在使用DailyNotes时发现的问题。在实现标题输入框这么简单的需求，还出现一些小状况，于是将程序的交互大致流程又了解了一下，才将它实现完成。</p></center></div>
+<div><center><img src="Story/image-20231231105839552.png" style="zoom:90%;"></center></div>
 
+
+
+2023年12月29日，好长时间没有接触这个项目了，花费了一个上午的时间基本完成了昨晚在使用DailyNotes时发现的问题。在实现标题输入框一个简单的需求时，出现一些小状况，于是将程序的交互大致流程又了解了一下，才将它实现完成。它们看起来真是太简单了，几乎用不到什么复杂的技术和逻辑，我有时候这样想，我觉得这样的思考并不准确，简单的事做到极致也是一种特殊的复杂，绕过了所有复杂冗余路径的最佳实践！
