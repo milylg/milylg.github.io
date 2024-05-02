@@ -4,7 +4,7 @@
 - 🧔 Gen.Lia
 - 🌏 China, Lu'an
 - 🏫 NSU / Software Engineering
-- 📧 Email：lgen.nsu@qq.com
+- 📧 lgen.nsu@qq.com
 
 
 
