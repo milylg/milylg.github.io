@@ -4,11 +4,11 @@
 - 🧔 Gen.Lia
 - 🌏 China, Lu'an
 - 🏫 NSU / Software Engineering
-- 📧 lgen.nsu@qq.com
+- ✉ lgen.nsu@qq.com
 
 
 
-> #### Toy projects
+> #### Toy Projects
 >
 
 - **Crazy** (🕹️疯狂的大炮，练习重构，Git工具，OOD 案例项目)
@@ -26,7 +26,7 @@
 
 
 
-> #### Preview
+> #### Show Case
 >
 
 <center><img src="RESUME/image-20230901111249539.png"  style="zoom:60%;"></center>
