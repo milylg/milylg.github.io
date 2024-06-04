@@ -1,10 +1,10 @@
 > #### Resume
 >
 
-- 🧔 Gen.Lia
+- 🧔 Gen.Li
 - 🌏 China, Lu'an
 - 🏫 NSU / Software Engineering
-- ✉ lgen.nsu@qq.com
+- ✉️ lgen.nsu@qq.com
 
 
 

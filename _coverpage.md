@@ -1,6 +1,6 @@
 <!-- _coverpage.md --> 
 
-# Gen.Lia <small>Github</small>
+# Gen.Li <small>Github</small>
 
 <span id="busuanzi_container_site_pv" style='display:none'>
     👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次

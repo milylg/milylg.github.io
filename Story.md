@@ -26,9 +26,10 @@
 
 <center>
 <video width="80%" height="80%" controls align-items="center;" justify-content="center;">
-  <source src="Story/asteroids.mp4" type="video/mp4">
+  <source src="Story/asteroids_show_case.mp4" type="video/mp4">
 您的浏览器不支持Video标签。
 </video></center>
+
 
 
 <center><p>CS142 Course Project: Asteroids Show Case</p></center><br><br>
