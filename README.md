@@ -1,7 +1,7 @@
 > #### Resume
 >
 
-- 🧔 Gen.Li
+- 🧔 Li.Gen
 - 🌏 Lu'an, China
 - 🏫 NSU / Software Engineering
 - ✉️ lgen.nsu@qq.com
@@ -11,7 +11,7 @@
 > #### Toy Projects
 > 
 
-- **Crazy** （🕹️疯狂的大炮`，练习重构，Git工具，OOD 案例项目）
+- **Crazy** （🕹️疯狂的大炮，练习重构，Git工具，OOD 案例项目）
 - **Tic-Tae-Toc**（🕹️井字棋，练习网络编程，Socket案例游戏项目，回溯算法，极大极小α-β剪枝算法）
 - **Audio** （英语听力播放器，Android端）
 - **NEditArea**（基于Layout实现的文本编辑器，开源项目重构）
