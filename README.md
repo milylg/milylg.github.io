@@ -18,7 +18,7 @@
 - **LightEditText** （基于Span实现的文本编辑器，开源项目二次开发，代码设计👍）
 - **EditableSpinner**（可编辑的Spinner组件，开源项目重构）
 - [**DailyNotes**](Articles/20231126.md)（每日备忘录应用程序，独立开发，Developing...）
-- [**SketchBoard**](Articles/20240828.md)（🎨图片标注板，Devloping...)
+- [**SketchBoard**](Articles/20240828.md)（🎨图片标注板)
 
 
 
@@ -80,11 +80,11 @@
 
 <div><center><img src="RESUME/Screenshot_20230901-171131[1].png" width="40%" ><img src="RESUME/Screenshot_20230901-164814[1].png"  width="40%" ></center></div>
 
-<center>迭代开发中的DailyNotes项目</center>
+<center>迭代开发中的DailyNotes项目</center><br><br>
 
 
 
 <div><center><img src="RESUME/snapshot-sketch-board-mvp.png" style="box-shadow:0 0 8px 0 #888;" alt="sketch board mvp"></center></div>
 
-<center>图片标注画板 MVP</center>
+<center>图片标注画板 MVP</center><br><br>
 
