@@ -130,7 +130,7 @@
 
 这是一个很小的应用程序，我没有尝试一次性完成它，在列出功能点后试图将它做得精简一些。当下，我并不熟悉绘图方面的基础知识，所以目前不断摸索着推进这个小项目，从中获得一点小小的成就感！
 
-<div><center><img src="STORY/lab_canvas_cut.gif" style="box-shadow:0 0 6px 0 #888;" alt="lab_canvas_cut"></center><center>实验片段：图片裁剪</center></div>
+<div><center><img src="Story/lab_canvas_cut.gif" style="box-shadow:0 0 6px 0 #888;" alt="lab_canvas_cut"></center><center>实验片段：图片裁剪</center></div>
 
 我并不打算让它成为一个新特性，①完全可以通过系统自带的图库进行剪切，或者照相的时候就限制范围，只要保证了有效的输入，那么裁剪就没有那个必要了！②剪切的方式不能以上图这种方式去剪切，手机边缘部分使用这种方式不方便进行裁剪。为了降低操作复杂度，需要引入新的设计方式，会增加程序复杂度和开发时间。③标注应用程序应该专注于标注，而非剪切，它只是一个锦上添花的功能。④通过这个LAB去验证，没有达到自己满意的效果。
 
