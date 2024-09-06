@@ -84,7 +84,7 @@
 
 
 
-<div><center><img src="RESUME/snapshot-sketch-board-mvp.png" style="zoom:90%; box-shadow:0 0 2px 0 #888;" alt="sketch board mvp"></center></div>
+<div><center><img src="README/SketchBoard-Alpha.png" style="zoom:80%; box-shadow:0 0 2px 0 #888;" alt="SketchBoard Alpha"></center></div>
 
-<center>图片标注画板 MVP</center><br><br>
+<center>图片标注画板 Alpha</center><br><br>
 
