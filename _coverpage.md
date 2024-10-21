@@ -1,18 +1,16 @@
 <!-- _coverpage.md --> 
 
-# Li.Gen <small>Github</small>
+# Gen.L <small>biography</small>
 
 <span id="busuanzi_container_site_pv" style='display:none'>
-    👀 总访问量：<span id="busuanzi_value_site_pv"></span> 次
-</span>
+    👀 total pv：<span id="busuanzi_value_site_pv"></span>  times </span>
 
 <span id="busuanzi_container_site_uv" style='display:none'>
-    | 🚴‍♂️ 总访客数：<span id="busuanzi_value_site_uv"></span> 人
-</span>
+    | 🚴‍♂️ total uv：<span id="busuanzi_value_site_uv"></span> persons</span>
 
 > **When you change what you beleve, you change what you do!**
 
-[Story](Story.md)  [About me](README.md)
+[Story](story.md)  [About me](readme.md)
 
 <!-- 背景色 -->
 

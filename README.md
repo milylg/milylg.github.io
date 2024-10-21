@@ -1,7 +1,7 @@
 > #### Resume
 >
 
-- 🧔 Li.Gen
+- 🧔 Gen.L
 - 🌏 Lu'an, China
 - 🏫 NSU / Software Engineering
 - ✉️ lgen.nsu@qq.com
@@ -84,7 +84,7 @@
 
 
 
-<div><center><img src="README/SketchBoard-Alpha.png" width="40%" style="zoom:80%; box-shadow:0 0 2px 0 #888;" alt="SketchBoard Alpha"></center></div>
+<div><center><img src="RESUME/SketchBoard-Alpha.png" width="40%" style="zoom:80%; box-shadow:0 0 2px 0 #888;" alt="SketchBoard Alpha"></center></div>
 
 <center>图片标注画板 Alpha</center><br><br>
 
