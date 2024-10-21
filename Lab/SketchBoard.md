@@ -1,4 +1,4 @@
-> ##### 标注画图板功能列表 `极简版本` `技术验证`
+> ##### 标注画图板功能列表 `MVP` 
 
 - 绘制图形（矩形，圆形，线段，箭头）
 - 绘制文字（阴影，描边，正常）
@@ -247,7 +247,7 @@ public class SketchBoard extends AppCompatImageView {
      *                   (clickX,clickY)
      *                          +
      *                        + | +
-     *                      +   | ɑ +
+     *                      +   | β +
      *                    +   H |     +
      *                  +       |       +
      * (leftX,leftY)  + + + + + + + + + + +  (rightX,rightY)
@@ -257,9 +257,9 @@ public class SketchBoard extends AppCompatImageView {
      */
     private Path triangle() {
 
-        // 计算角ɑ的弧度值(0, 2PI)
+        // 计算角β的弧度值(0, 2PI)
         double radius = Math.atan(TRIANGLE_BASE_SIDE_HALF / TRIANGLE_HEIGHT);
-        // 计算锐角三角形的腰长
+        // 计算等腰三角形的腰长
         double waistLen = Math.sqrt(
                 TRIANGLE_BASE_SIDE_HALF * TRIANGLE_BASE_SIDE_HALF + TRIANGLE_HEIGHT * TRIANGLE_HEIGHT);
 
@@ -470,3 +470,8 @@ public class SketchBoard extends AppCompatImageView {
 
 </details>
 
+
+
+**三角形绘制的原理：极坐标系的应用**
+
+<img src="Lab/SketchBoard/Triangle.png" style="box-shadow:0 0 1px 0 #000;" alt="Triangle">

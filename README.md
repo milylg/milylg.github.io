@@ -17,7 +17,7 @@
 - **NEditArea**（基于Layout实现的文本编辑器，开源项目重构）
 - **LightEditText** （基于Span实现的文本编辑器，开源项目二次开发，代码设计👍）
 - **EditableSpinner**（可编辑的Spinner组件，开源项目重构）
-- [**DailyNotes**](Articles/20231126.md)（每日备忘录应用程序，独立开发，Developing...）
+- [**DailyNotes**](Articles/20231126.md)（每日备忘录应用程序，🚀Developing...）
 - [**SketchBoard**](Articles/20240828.md)（🎨图片标注板)
 
 
@@ -84,7 +84,7 @@
 
 
 
-<div><center><img src="README/SketchBoard-Alpha.png" style="zoom:80%; box-shadow:0 0 2px 0 #888;" alt="SketchBoard Alpha"></center></div>
+<div><center><img src="README/SketchBoard-Alpha.png" width="40%" style="zoom:80%; box-shadow:0 0 2px 0 #888;" alt="SketchBoard Alpha"></center></div>
 
 <center>图片标注画板 Alpha</center><br><br>
 
