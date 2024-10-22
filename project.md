@@ -7,8 +7,8 @@
 - **NEditArea**（基于Layout实现的文本编辑器，开源项目重构）
 - **LightEditText** （基于Span实现的文本编辑器，开源项目二次开发，代码设计👍）
 - **EditableSpinner**（可编辑的Spinner组件，开源项目重构）
-- [**DailyNotes**](Articles/20231126.md)（每日备忘录应用程序，🚀Developing...）
-- [**SketchBoard**](Articles/20240828.md)（🎨图片标注板，🚀Developing...)
+- [**DailyNotes**](daily-upgrade-list.md)（每日备忘录应用程序，🚀Developing...）
+- [**SketchBoard**](pic-annotation-app.md)（🎨图片标注板，🚀Developing...)
 
 
 
