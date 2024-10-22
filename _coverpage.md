@@ -10,7 +10,7 @@
 
 > **When you change what you beleve, you change what you do!**
 
-[Story](story.md)  [About me](readme.md)
+[Story](story.md) [Projects](showcase.md)
 
 <!-- 背景色 -->
 

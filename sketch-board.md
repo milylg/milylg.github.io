@@ -472,6 +472,6 @@ public class SketchBoard extends AppCompatImageView {
 
 
 
-> 箭头旋转角度绘制的原理：极坐标系的应用
+> 旋转箭头角度绘制原理：极坐标系
 
 <img src="SketchBoard/Triangle.png" style="box-shadow:0 0 1px 0 #000;" alt="Triangle">
