@@ -1,9 +1,9 @@
 > #### Toy Projects
 > 
 
-- **Crazy** （🕹️疯狂的大炮，练习重构，Git工具，OOD 案例项目）
-- **Tic-Tae-Toc**（🕹️井字棋，练习网络编程，Socket案例游戏项目，回溯算法，极大极小α-β剪枝算法）
-- **Audio** （英语听力播放器，Android端）
+- [**Crazy**](https://github.com/milylg/Crazy) （🕹️疯狂的大炮，练习重构，Git工具，OOD 案例项目）
+- [**Tic-Tae-Toc**](https://github.com/milylg/tic-tae-toc)（🕹️井字棋，练习网络编程，Socket案例游戏项目，回溯算法，极大极小α-β剪枝算法）
+- [**Audio**](https://github.com/milylg/audio) （英语听力播放器，Android端）
 - **NEditArea**（基于Layout实现的文本编辑器，开源项目重构）
 - **LightEditText** （基于Span实现的文本编辑器，开源项目二次开发，代码设计👍）
 - **EditableSpinner**（可编辑的Spinner组件，开源项目重构）

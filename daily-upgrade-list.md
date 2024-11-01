@@ -12,7 +12,9 @@
 - 修复已发现的小问题。
 - 优化一些操作使用体验。
 
-
+<div><center><img src="daily-upgrade-list/ShowCaseHome.jpg" width="32%">
+    <img src="daily-upgrade-list/ShowCaseEdit.jpg" width="32%">
+    <img src="daily-upgrade-list/ShowCaseSearch.jpg" width="32%"></center></div></br></br>
 
 `2024年7月`，`0.5.18`  完成了全文本搜索对中文的支持。
 
@@ -23,9 +25,6 @@
 - 新增文本编辑风格：高亮文本。
 - 修复一些已发现的问题。
 
-<div><center><img src="daily-upgrade-list/07ShowCase-Home.jpg" width="32%">
-    <img src="daily-upgrade-list/07ShowCase-AutoLink.jpg" width="32%">
-    <img src="daily-upgrade-list/07ShowCase-Search.jpg" width="32%"></center></div></br></br>
 
 
 
@@ -60,9 +59,10 @@
 
 
 
-<div><center><img src="Articles/20231126/Screenshot_20240410_080620.jpg" width="32%">
+<div><center><img src="daily-upgrade-list/Screenshot_20240410_080620.jpg" width="32%">
     <img src="daily-upgrade-list/Screenshot_20240418_170756.jpg" width="32%">
     <img src="daily-upgrade-list/Screenshot_20240418_170551.jpg" width="32%"></center></div></br></br>
+
 
 
 </br></br>
