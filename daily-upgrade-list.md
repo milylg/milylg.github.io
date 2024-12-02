@@ -1,8 +1,16 @@
 #### DailyNotes更新日志
 
+`2024年11月`，移除云同步基础代码。`0.6.15` 清理无用的功能特性，添加一些新的特性。
+
+- <span style="color:orange;">BREAK UPGRADE: 删除云同步基础设施代码</span>
+- <span style="color:orange;">BREAK UPGRADE: 删除后台定时闹钟提醒功能代码</span>
+- 新增文本编辑风格：图片编码。
+- 新特性：导出HTML。
+- 修复已知存在的问题。
+
 `2024年8月`，移除文件夹界面。 `0.6.3`  添加一些新特性，修复已知问题。
 
-- <span style="color:orange;font-weight:bold">BREAK UPGRADE: 归档文件夹改为笔记本，重新定义归档概念。</span>
+- <span style="color:orange;">BREAK UPGRADE: 归档文件夹改为笔记本，重新定义归档概念。</span>
 - 修复：还原数据，更新全文搜索数据。
 - 修复：备忘录过滤列表，操作后数据列表更新不正常。
 - 新特性：快速创建图片备忘录。
