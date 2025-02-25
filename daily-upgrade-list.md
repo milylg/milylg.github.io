@@ -1,12 +1,36 @@
 #### DailyNotes更新日志
 
+`2025年2月`， 完善一些已发现的问题。`0.8.11`
+
+- 修复：外置存储SD卡备份异常。
+- 修复：NoteBook名称输入提示及提示弹窗宽度测量。
+- 修复：导出网页文件中标签内部出现空格换行问题。
+- 修复：快速创建图片备忘录，图片命名不能作为引用地址。
+- 新特性：文本编辑器新增时间戳。
+- 更新部分UI组件风格。
+- <span style="color:orange;">NOTE:</span> 在文本编辑器的需求验证中，输入和输出过程的中的换行格式一致的条件在Span和HTML相互转换过程中不能满足逻辑自洽。因此放弃取消目前格式自动化处理的功能特性。
+
+</br></br>
+
+`2024年12月`，新增备份位置，列表多选操作，改变夜间风格。`0.8.2`
+
+- 重构本地备份，默认外置SD存储卡为备份位置。
+- 新增列表多选操作；移除回收站界面；添加回收站过滤器。
+- 重构搜索流程。
+- 重构附件列表界面。
+- 修复已发现的问题。
+
+</br></br>
+
 `2024年11月`，移除云同步基础代码。`0.6.15` 清理无用的功能特性，添加一些新的特性。
 
-- <span style="color:orange;">BREAK UPGRADE: 删除云同步基础设施代码</span>
-- <span style="color:orange;">BREAK UPGRADE: 删除后台定时闹钟提醒功能代码</span>
+- <span style="color:orange;">BREAK UPGRADE: 删除云同步基础设施代码。</span>
+- <span style="color:orange;">BREAK UPGRADE: 删除后台定时闹钟提醒功能代码。</span>
 - 新增文本编辑风格：图片编码。
 - 新特性：导出HTML。
 - 修复已知存在的问题。
+
+</br></br>
 
 `2024年8月`，移除文件夹界面。 `0.6.3`  添加一些新特性，修复已知问题。
 
@@ -33,12 +57,12 @@
 - 新增文本编辑风格：高亮文本。
 - 修复一些已发现的问题。
 
-
+</br></br>
 
 
 `2024年6月`，自动化构建测试发布版本。（2days)
 
-
+</br></br>
 
 `2024年5月`，完善现有的功能，修复一些已知的问题。（3days)
 
@@ -50,7 +74,7 @@
 - 实现Undo和Redo基础功能，仅支持原生Android的文本编辑。
 - 分享纯文字。
 
-
+</br></br>
 
 `2024年4月`，新增后台任务运行，修复一些已知问题。（10days)
 
@@ -109,4 +133,4 @@
     <img src="daily-upgrade-list/Screenshot_20231004_125648.jpg" width="32%">
     <img src="daily-upgrade-list/Screenshot_20231004_125157.jpg" width="32%"></center></div></br></br>
 
-?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download</a>
+?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download APK (Release, 2.27 MiB) </a>
