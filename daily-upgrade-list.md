@@ -1,5 +1,13 @@
 #### DailyNotes更新日志
 
+`2025年7月`，新增绘图板功能，优化和修复一些已发现的问题。`0.8.47`  `0.9.2`
+
+- 优化：1).退出到后台，自动保存编辑内容;  2).编辑过程中的键盘状态调整；3).搜索输入关闭后自动复位过滤器；4).调整文本编辑器的时间格式
+- 重构：1).删除编辑器中对外图片编码相关的接口，重新设计编辑工具栏，减少操作次数;  2).修改笔记本列表布局； 3).调整附件列表风格。
+- 新特性：手绘板（图片标记），修复大量已发现的问题。
+
+</br></br>
+
 `2025年4月`，重构部分功能特性代码，修复一些已知的问题。`0.8.35`
 
 - 修改部分界面组件。
@@ -164,4 +172,4 @@
     <img src="daily-upgrade-list/Screenshot_20231004_125648.jpg" width="32%">
     <img src="daily-upgrade-list/Screenshot_20231004_125157.jpg" width="32%"></center></div></br></br>
 
-?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download APK (Release, 2.27 MiB) </a>
+?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download APK (Release, 2.37 MiB) </a>
