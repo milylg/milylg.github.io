@@ -1,6 +1,6 @@
 #### 图片标注软件（Android）
 
-某些场景通过图片标注的方式更有利于提高沟通的效率，但这不是我开始这个项目的原因，启动这个小项目的动力来自一张充满艺术感的电子硬件介绍图。我先想做一个能接近这样效果的标注软件，现在只做最基础，最简单的功能接口，等功能接口表现效果接近自己认为理想的状态下，再进行工程优化和功能扩展。
+某些场景通过图片标注的方式更有利于提高沟通的效率，但这不是我开始这个项目的原因，启动这个小项目的动力来自一张充满艺术感的电子硬件介绍图。我最先想做一个能接近这样效果的标注软件，现在只做最基础，最简单的功能接口，等功能接口表现效果接近自己认为理想的状态下，再进行工程优化和功能扩展。
 
 <div><center><img src="pic-annotation-app/pico-addons-13_medium.webp" style="box-shadow:0 0 6px 0 #888;" alt="pico-addons-13_medium"></center></div><br>
 
@@ -38,4 +38,12 @@
 > ##### 项目演进过程
 
 <div><center><img src="pic-annotation-app/sketchboard-mvp-showcase.gif" style="box-shadow:0 0 4px 0 #888;" alt="sketchboard-mvp-showcase"><img src="pic-annotation-app/sketchboard-sec-showcase.gif" style="box-shadow:0 0 6px 0 #888;" alt="redo-undo-showcase.gif"><img src="pic-annotation-app/sketchboard_style.gif" style="box-shadow:0 0 6px 0 #888;" alt="sketchboard_style.gif"><img src="pic-annotation-app/sketchboard-text-save-import-showcase.gif" style="box-shadow:0 0 6px 0 #888;" alt="sketchboard-text-save-import-showcase.gif"></center></div>
+
+> ##### 成为项目组件库
+
+这个项目原本打算不继续开发了，但是在使用DailyNotes过程中，发现这个SketchPad可以对附件进行标注，尤其是文字标注，它会增加图片的趣味性，可以提高用户情感体验度。不过在使用它之前，我需要对它进行精简，有些效果实现的并不理想，我也不想继续开发它了，比如放大镜和聚光灯效果，这两个效果对环境的配置有一点要求，当下对它的实现，我并不满意，为了不增加待办事项，我直接删除了。还有以前实现的图片缩放策略，完善其中一个缩放策略后删除了其它相关的测试代码。我很喜欢清理代码，因为它让我对这个小项目的认识变得清晰了，明白到底哪些特性对我来说是重要的，集中精力去完善它。所以现在的态势由前面的探索性开发阶段进入到现在的完善性开发阶段，工作量变小了，目标感也增强了。尽管它成为组件库加入到dailynotes项目中，从界面交互的角度上看，它仍然显得稚嫩（某些使用体验上仍有很大的进步空间）。
+
+
+
+<div><center><img src="pic-annotation-app/sketchpad.jpg" style="zoom:40%; box-shadow:0 0 2px 0 #888;" alt="sketchpad"><img src="pic-annotation-app/sketch in daily notes app.jpg" style="zoom:40%; box-shadow:0 0 2px 0 #888;" alt="sketch in daily notes app"></center><center><p>SketchPad Demo App (BLUE) &amp; SketchPad In Daily Notes App (WHITE)</p></center></div>
 

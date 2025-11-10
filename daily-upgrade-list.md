@@ -1,8 +1,26 @@
 #### DailyNotes更新日志
 
+`2025年11月`，修复一个很久都没有解决的用户体验问题。`0.9.14`
+
+- 完善转场动画（某些情况下仍然会出现转场失败，这是由于转场依赖库不是最新版本，旧版本提供的功能并不是很完善，需要升级依赖版本）。
+- 修复数据还原后的全文本搜索失效问题。
+- 修复sketch界面的空白附件情况下翻页异常。
+- 修复文本编辑器获取焦点后光标自动平移到键盘上方失效问题。
+- 调整一些界面风格设置和Ebook内容风格。
+
+</br></br>
+
+`2025年9月`，新增一种数据导出方式，使用后台任务框架重构HTML文件的生成。 `0.9.7` 
+
+- 新特性：笔记本生成EPUB电子书。
+- 重构HTML导出和分享文件。
+- 修复一些已发现的问题。
+
+</br></br>
+
 `2025年7月`，新增绘图板功能，优化和修复一些已发现的问题。`0.8.47`  `0.9.2`
 
-- 退出到后台，自动保存编辑内容; 。
+- 退出到后台，自动保存编辑内容 。
 - 调整编辑过程中的键盘状态。
 - 搜索输入关闭后自动复位过滤器。
 - 调整文本编辑器的时间格式。
@@ -23,7 +41,7 @@
 - 重新设计导出html文件的css样式。
 - 清理一些无用的代码和资源文件。
 
-<span style="color:orange;">NOTE:</span> 不确定模式进度条在PreferenceScreen界面中无法正常显示进度动画，系官方组件的功能BUG。
+<span style="color:orange;">NOTE:</span> 不确定模式进度条在界面中被调用正常显示进度动画，但是在后台任务的LiveData监听回调中起UI线程调用3秒后动画会出现异常。
 
 </br></br>
 
@@ -152,7 +170,7 @@
 `2023年12月` 完善现有功能，并修复已发现的ISSUES.（Only 2~3 Hours)
 
 - 编辑界面添加滑动编辑器，组件联动效果。
-- 软件可以根据用户需求，添加标题或者隐藏标题输入框。
+- 标题输入框可见性。
 - 调整英文翻译和夜间模式中文本颜色。
 - 修复回收站的备忘录条目的文本行数限制和空描述占位问题
 - 修复文本编辑器不能复制和剪切功能。
@@ -176,4 +194,4 @@
     <img src="daily-upgrade-list/Screenshot_20231004_125648.jpg" width="32%">
     <img src="daily-upgrade-list/Screenshot_20231004_125157.jpg" width="32%"></center></div></br></br>
 
-?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download APK (Release, 2.37 MiB) </a>
+?><a title="DailyNote App" style="text-decoration: none;" download="app-release.apk" href="">Download APK (Release, 2.41 MB) </a>
