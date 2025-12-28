@@ -1,10 +1,10 @@
-.app-nav {
+/* .app-nav {
 	margin-right: 120px !important
-}
+} */
 
-.app-nav.no-badge {
-	margin-right: 85px !important
-}
+/* .app-nav.no-badge {
+	margin-left: 85px !important
+} */
 
 html.dark section.cover.show {
 	background: inherit !important
@@ -13,9 +13,9 @@ html.dark section.cover.show {
 .docsify-dark-switch {
 	height: 31px;
 	position: absolute;
-	right: 60px;
+	left: 60px;
 	text-align: right;
-	top: 30px;
+	top: 22px;
 	z-index: 11
 }
 
@@ -35,7 +35,7 @@ html.dark section.cover.show {
 }
 
 .docsify-dark-switch.no-badge {
-	right: 25px
+	left: 25px
 }
 
 .docsify-dark-switch>button {
@@ -100,7 +100,7 @@ html.dark section.cover.show {
 
 .docsify-dark-switch.dark>button {
 	background-color: rgba(101, 117, 133, .16);
-	border: 1px solid #6c6f73
+	/* border: 1px solid #6c6f73 */
 }
 
 .docsify-dark-switch.dark>button:hover {
