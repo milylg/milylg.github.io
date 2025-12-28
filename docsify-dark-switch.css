@@ -1,0 +1,118 @@
+.app-nav {
+	margin-right: 120px !important
+}
+
+.app-nav.no-badge {
+	margin-right: 85px !important
+}
+
+html.dark section.cover.show {
+	background: inherit !important
+}
+
+.docsify-dark-switch {
+	height: 31px;
+	position: absolute;
+	right: 60px;
+	text-align: right;
+	top: 30px;
+	z-index: 11
+}
+
+.docsify-dark-switch:before {
+	border-left: 1px solid #e2e2e3;
+	float: left;
+	height: 24px;
+	width: 16px
+}
+
+.docsify-dark-switch.no-nav:before {
+	content: none
+}
+
+.docsify-dark-switch.fixed {
+	position: fixed
+}
+
+.docsify-dark-switch.no-badge {
+	right: 25px
+}
+
+.docsify-dark-switch>button {
+	background-color: rgba(142, 150, 170, .14);
+	border: 1px solid #c2c2c4;
+	border-radius: 11px;
+	color: inherit;
+	cursor: pointer;
+	display: inline-block;
+	flex-shrink: 0;
+	font-family: inherit;
+	height: 22px;
+	line-height: inherit;
+	padding: 0;
+	position: relative;
+	transition: border-color .25s !important;
+	width: 40px
+}
+
+.docsify-dark-switch>button:hover {
+	border-color: #3451b2
+}
+
+.docsify-dark-switch>button,
+.docsify-dark-switch>button * {
+	pointer-events: auto
+}
+
+.docsify-dark-switch .check {
+	background-color: #fff;
+	border-radius: 50%;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, .04), 0 1px 2px rgba(0, 0, 0, .06);
+	height: 18px;
+	left: 1px;
+	position: absolute;
+	top: 1px;
+	transition: transform .25s !important;
+	width: 18px
+}
+
+.docsify-dark-switch .icon {
+	border-radius: 50%;
+	display: block;
+	height: 18px;
+	overflow: hidden;
+	position: relative;
+	width: 18px
+}
+
+.docsify-dark-switch svg {
+	height: 12px;
+	left: 3px;
+	position: relative;
+	top: 3px;
+	width: 12px;
+	fill: rgba(60, 60, 67, .78)
+}
+
+.docsify-dark-switch.dark:before {
+	border-left: 1px solid #6c6f73
+}
+
+.docsify-dark-switch.dark>button {
+	background-color: rgba(101, 117, 133, .16);
+	border: 1px solid #6c6f73
+}
+
+.docsify-dark-switch.dark>button:hover {
+	border-color: #a8b1ff
+}
+
+.docsify-dark-switch.dark .check {
+	background-color: #000;
+	transform: translate(18px)
+}
+
+.docsify-dark-switch.dark svg {
+	fill: rgba(255, 255, 245, .86);
+	transition: opacity .25s !important
+}

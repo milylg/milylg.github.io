@@ -7,11 +7,15 @@
 		<meta name="description" content="这里是Gen.L的个人主页,带你发现有趣的事物,了解他的想法和经历.">
 		<meta name="keywords" content="Github, Milylg, Resume, Enginner, DailyNotes">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-		<link rel="stylesheet" href="//fastly.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-		<link rel="icon" href="favicon.ico">
+		<link rel="stylesheet" title="light" href="//fastly.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+		<link rel="stylesheet" title="dark" href="../dark.css" disabled>
+		<!-- <link rel="stylesheet" title="dark" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" disabled> -->
+        <link rel="icon" href="favicon.ico">
 		<!-- <link rel="stylesheet" href="../vue.css"> -->
 		<link rel="stylesheet" href="../loading.css">
-	</head>
+        <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-switch/dist/docsify-dark-switch.css"> -->
+        <link rel="stylesheet" href="../docsify-dark-switch.css">
+</head>
 	<body>
 		<div id="app"><div class="loading"></div></div>
 		<script>
@@ -28,7 +32,11 @@
 					fontsize: '0.9em',
 					color: 'rgb(90,90,90)',
 					language: 'chinese'
-				}
+				},
+				darkSwitch: {
+                    fixed: false,
+                    debug: false
+                }
 			}
 		</script>
 		<!-- Docsify v4 -->
@@ -44,5 +52,9 @@
 		<!-- 访问量统计 -->
 		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		<!-- <script src="../busuanzi.pure.mini.js"></script> -->
+	
+	    <!-- 白天夜间模式  -->
+	    <script src="//cdn.jsdelivr.net/npm/docsify-dark-switch/dist/docsify-dark-switch.min.js"></script>
+      
 	</body>
 </html>
